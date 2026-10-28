@@ -1,0 +1,10 @@
+{
+  "name": "poker-hand-evaluator",
+  "version": "1.0.0",
+  "description": "Small, dependency-free Texas Hold'em hand evaluator in TypeScript (5 to 7 cards).",
+  "license": "MIT",
+  "author": "Francisco Brazao Neto",
+  "main": "src/evaluator.ts",
+  "scripts": { "test": "vitest run" },
+  "devDependencies": { "typescript": "^5.4.0", "vitest": "^2.0.0" }
+}
